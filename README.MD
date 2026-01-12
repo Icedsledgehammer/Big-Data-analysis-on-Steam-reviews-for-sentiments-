@@ -4,7 +4,7 @@ End-to-end **big data sentiment classification** project using the **Hadoop ecos
 
 ### Live Demo Video
 Watch a full end-to-end demo (Hadoop start → Pig processing → live Flask dashboard):  
-🎥 [Demo Video (YouTube / Google Drive link)](https://youtu.be/YOUR_VIDEO_ID_HERE)  
+🎥 [Demo Video (Google Drive link)](https://drive.google.com/file/d/1FBVuE9CgBSsA6btdHDr346Sm3RQXFfjc/view?usp=sharing)]
 *(~2–3 minutes – shows jps, Pig job, MongoDB count, dashboard with AUC 0.55)*
 
 ### Key Results
